@@ -1,5 +1,3 @@
-
-````markdown
 # 🤖 Gemini Colab Chatbot
 
 [![Open In Colab](https://img.shields.io/badge/Colab-Launch-blue?logo=googlecolab)](https://colab.research.google.com/github/<your‑username>/gemini‑colab‑chatbot/blob/main/chatbot.ipynb)
@@ -31,14 +29,6 @@ A lightweight, interactive AI chatbot built in **Google Colab** with the **Gemi
 
 ---
 
-## 📸 Demo
-| Chat interface in Colab |
-| ----------------------- |
-| ![Gemini Colab Chatbot](screenshots/chat_demo.png) |
-
-> Replace `screenshots/chat_demo.png` with your own screenshot.
-
----
 
 ## 🚀 Quick Start
 ### 1. Open Colab
